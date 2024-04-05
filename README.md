@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimoo112&show_icons=true&locale=en&layout=compact" alt="kimoo112" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimoo112&show_icons=true&locale=en" alt="kimoo112" /></p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kimoo112&theme=gruvbox" alt="GitHub Streak" /></a>
