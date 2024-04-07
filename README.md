@@ -8,10 +8,7 @@
 
 - 🔭 I’m currently working as a **Freelance Software Engineer 💻** | **Mobile Application Developer 📱** .
 
-
-- 🌱 I’m currently learning **Advanced Flutter**.
-
-- 🌱 I’m currently learning **Faculty Of Specific Education**
+- 🌱 I’m studying at **Faculty Of Specific Education**
   
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/kimoo112?tab=repositories)** .
 
