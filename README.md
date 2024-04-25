@@ -36,7 +36,7 @@
 ## 🤝 Connect With Me:
 
 <div align="center">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/karim-mohamed-2a2890294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <a href="https://www.linkedin.com/in/karim-mohamed-2a2890294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
   <a href="devkarimmohamed22@gmail.com">
