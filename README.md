@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/kimoo112?tab=repositories)** .
 
 
-- 📫 How to reach me **[My Gmail](devkarimmohamed22@gmail.com)** .
+- 📫 How to reach me [My Gmail](mailto:devkarimmohamed22@gmail.com).
   
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimoo112&label=Profile%20views&color=0e75b6&style=flat" alt="kimoo112" /> </p>
 <br>
@@ -39,7 +39,7 @@
     <a href="https://www.linkedin.com/in/karim-mohamed-2a2890294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="devkarimmohamed22@gmail.com">
+  <a href="mailto:devkarimmohamed22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 
   
